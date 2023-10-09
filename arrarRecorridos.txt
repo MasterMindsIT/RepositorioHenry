@@ -1,0 +1,9 @@
+1
+
+1
+El método forEach() nos permite recorrer un arreglo, realizando alguna acción en para cada elemento.
+
+2
+
+2
+El método map() también nos permite recorrer un arreglo y realizar una acción por cada elemento. La diferencia es que este método devuelve un nuevo arreglo los elementos modificados.

@@ -1,0 +1,30 @@
+pwd: imprimir el directorio en donde nos encontramos. 
+
+ls: imprime archivos o carpetas dentro del cual estamos trabajando. 
+
+mkdir carpetaPrueba: crea una carpeta llamada 'carpetaPrueba' en el directorio que estamos situados. Si queremos crear una carpeta que lleve espacios en su nombre se debe utilizar comillas. Por ej "PrepCourse Henry" 
+
+cd: para ir hacia el directorio que contiene la carpeta o directorio en donde nos encontramos. También podemos usarla para movernos entre carpetas, por ejemplo al usar cd carpetaPrueba cambiamos de la carpeta actual hacia "carpetaPrueba"
+
+touch archivo.txt : crea un archivo con nombre "archivo.txt"
+
+rm archivo.txt : elimina el archivo "archivo.txt"
+
+rm -r carpetaPrueba: elimina la carpeta de nombre "carpetaPrueba"
+
+**************************
+
+git init: comando para inicializar un repositorio local. 
+
+git add: comando para que nuestro repositorio sepa de la existencia de un archivo o de sus últimos cambios, no almacena las actualizaciones de forma definitiva, únicamente las guarda en algo que conocemos como “Staging Area” (área de montaje o ensayo). Se puede armar como git add ArchivoEjemplo.js (solo agrega ese archivo) o git add (agrega todos los archivos modificados de la carpeta donde estas con el punto. 
+
+git commit -m "mensaje": comando para almacenar definitivamente todos los cambios que por ahora viven en el staging área. En el mensaje ponemos el mensaje que explica los cambios commiteados. 
+
+git push: comando para mandar nuestros commits a un servidor remoto.
+
+git status: ofrece una descripción del estado de los archivos.
+
+git pull: sirve para recibir cambios de repositorio remoto a local.
+
+**************************
+

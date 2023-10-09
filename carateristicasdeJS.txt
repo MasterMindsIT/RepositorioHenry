@@ -1,0 +1,23 @@
+Velocidad 🏃
+
+En esencia, JavaScript tiende a ser muy rápido. A menudo se ejecuta inmediatamente en el navegador; en tanto no requiera recursos externos, JavaScript no tiene permitido retrasarse por llamados del servidor backend. 
+
+Popularidad 🏆
+
+JavaScript está en todos lados y se espera que su popularidad siga en alza. Si navegas por recursos y plataformas tales como StackOverflow y GitHub verás la cantidad de proyectos desarrollados en base a este lenguaje. Es más, con la llegada de Node.js, se ha incrementado su uso en el back-end y por lo tanto incorporado cada vez con más frecuencia en los tech stack de todo tipo de startups y compañías. 
+
+Server Load 💻
+
+JavaScript trabaja del lado del cliente lo que reduce la demanda de servidores en general. 
+
+Compatibilidad 🔁
+
+A diferencia de otros lenguajes scripting, JavaScript puede ser usado en cualquier página web y en diferentes tipos de aplicaciones gracias al soporte que ofrecen otros lenguajes como Pearl y PHP. 
+
+Simplicidad 💆‍♀️
+
+La sintaxis de JavaScript está inspirada en Java, y en relación a otros lenguajes de programación igualmente populares, es relativamente sencillo de aprender. 
+
+Versatilidad 🚀
+
+Hay muchos métodos para usar JavaScript mediante servidores Node.js.  Si tú estás en bootstrap Node.js con Express, puedes usar un documento database como MongoDB, y usar JavaScript en el frontend para clientes.  Una gran ventaja de JavaScript es que es el único lenguaje que te permite trabajar en modo Full Stack.
